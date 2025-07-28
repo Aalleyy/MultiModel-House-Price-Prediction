@@ -29,6 +29,8 @@ To improve house price prediction by combining structured attributes and visual 
 
 ##  Dataset Structure
 
+[Dataset Link](https://github.com/emanhamed/houses-dataset)
+
 ```bash
 Multimodal Housing Price Prediction/
 ├── Dataset/
